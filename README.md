@@ -80,5 +80,5 @@
 
 ### ⚡ Современное состояние (2024)
 
-https://img.shields.io/badge/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-65%2525_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9-blue
-https://img.shields.io/badge/Docker_Hub-8%D0%BC%D0%BB%D0%BD+_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2-green
+<img src="https://img.shields.io/badge/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-65%2525_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9-blue
+https://img.shields.io/badge/Docker_Hub-8%D0%BC%D0%BB%D0%BD+_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2-green">
