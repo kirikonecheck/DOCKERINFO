@@ -206,3 +206,16 @@ services:
 |🐳 Docker Hub |	Реестр образов |
 |🎓 Docker Samples |	Примеры проектов |
 |🔄 Awesome Docker |	Коллекция ресурсов |
+
+<div align="center">
+
+🎊 Docker изменил мир разработки!
+От простого инструмента до экосистемы, которая определяет будущее IT
+
+🚀 Начните свой путь в Docker сегодня!
+
+https://img.shields.io/badge/Docker-Get%2520Started-2496ED?style=for-the-badge&logo=docker&logoColor=white
+
+</div>
+
+<div align="center"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" alt="Docker"> <br> <sub><em>Docker — контейнеризируй и властвуй!</em></sub> </div>
